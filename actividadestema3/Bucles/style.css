@@ -1,0 +1,16 @@
+/* table {
+            table-layout: fixed;
+            border-collapse: collapse;
+            border: 3px solid green;
+        } */
+        tr {
+            table-layout: fixed;
+            border-collapse: collapse;
+            border: 1px solid black;
+        }
+
+        td {
+            table-layout: fixed;
+            border-collapse: collapse;
+            border: 1px solid black;
+        }
